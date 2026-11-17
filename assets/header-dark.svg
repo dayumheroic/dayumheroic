@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Sean Steinhoff | Software engineer and systems architect</title>
+<desc id="desc">Full-stack products. Thoughtful architecture. AI under an engineering standard.</desc>
+<rect width="1200" height="330" rx="18" fill="#123B42"/>
+<g fill="none" stroke="#376068" stroke-width="1.5"><path d="M955 56v218M1033 56v218M1111 56v218M917 96h232M917 174h232M917 252h232"/><rect x="931" y="71" width="50" height="50" rx="10"/><rect x="1008" y="149" width="50" height="50" rx="10"/><rect x="1086" y="227" width="50" height="50" rx="10"/></g>
+<g fill="#F4F0E6"><circle cx="956" cy="96" r="5"/><circle cx="1033" cy="174" r="5"/><circle cx="1111" cy="252" r="5"/></g>
+<path d="M961 96h35q37 0 37 37v36m5 5h36q37 0 37 37v36" fill="none" stroke="#F4F0E6" stroke-width="2"/>
+<text x="56" y="63" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3" fill="#A5BDBB">SEAN STEINHOFF / DAYUMHEROIC</text>
+<text x="54" y="133" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.4" fill="#F4F0E6">Software engineer.</text>
+<text x="54" y="190" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.4" fill="#F4F0E6">Systems architect.</text>
+<path d="M56 222h55" stroke="#F4F0E6" stroke-width="3"/>
+<text x="56" y="257" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#A5BDBB">Full-stack products. AI under an engineering standard.</text>
+<text x="56" y="292" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1" fill="#A5BDBB">ARCHITECTURE / INTEGRATIONS / AI APPLICATIONS</text>
+</svg>
