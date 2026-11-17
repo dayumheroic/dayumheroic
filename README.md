@@ -24,6 +24,19 @@ I designed and directed its development with AI coding agents. It combines deter
 TypeScript · React · Express · SQLite · Anthropic API · Apollo API  
 [Read the project](https://github.com/dayumheroic/prospectpipe#readme) · [Explore the implementation](https://github.com/dayumheroic/prospectpipe/tree/main/server/services)
 
+### [Mesh Observatory](https://github.com/dayumheroic/mesh-observatory)
+
+**Stock-firmware mesh telemetry, with explicit evidence and inference limits.**
+
+I defined the research scope and directed AI-assisted development of a Deco telemetry collector, macOS radio bridge and local and optional authenticated cloud views. The project explores what an existing consumer mesh exposes without flashing hardware or changing router settings.
+
+- **Constrain acquisition:** explicit targets, certificate-pinned reads and bounded retries.
+- **Preserve data meaning:** measured radio, reported device associations and modeled coverage stay distinct.
+- **Make the work reviewable:** synthetic fixtures, boundary tests and documented limitations, with attribution for reused RuView components.
+
+Python · Swift · JavaScript · Cloudflare Workers · SQLite Durable Objects  
+[Read the project](https://github.com/dayumheroic/mesh-observatory#readme) · [Review provenance](https://github.com/dayumheroic/mesh-observatory/blob/main/PROVENANCE.md)
+
 ### Broader systems work
 
 My recent work also includes architecture and development leadership for:
